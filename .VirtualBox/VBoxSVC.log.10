@@ -1,0 +1,89 @@
+00:00:00.003216 main     VirtualBox COM Server 6.1.38 r153438 win.amd64 (Sep  1 2022 14:20:23) release log
+00:00:00.003217 main     Log opened 2022-09-17T09:32:07.358629100Z
+00:00:00.003218 main     Build Type: release
+00:00:00.003221 main     OS Product: Windows 11
+00:00:00.003221 main     OS Release: 10.0.22000
+00:00:00.003222 main     OS Service Pack: 
+00:00:00.081232 main     DMI Product Name: HP Pavilion Gaming Laptop 15-ec1xxx
+00:00:00.091012 main     DMI Product Version:  
+00:00:00.091027 main     Firmware type: UEFI
+00:00:00.091312 main     Secure Boot: Enabled
+00:00:00.091346 main     Host RAM: 7541MB (7.3GB) total, 2730MB (2.6GB) available
+00:00:00.091349 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.091350 main     Process ID: 21636
+00:00:00.091350 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.243354          VirtualBox: object creation starts
+00:00:00.243638          Home directory: 'C:\Users\AMIT\.VirtualBox'
+00:00:00.243732          Installed Drivers:
+00:00:00.248085            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 6.1.38.3438)
+00:00:00.248429            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.38.3438)
+00:00:00.248765            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.38.3438)
+00:00:00.249094            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.38.3438)
+00:00:00.249341          Loading settings file "C:\Users\AMIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.252351          usbLibGetDevices: Starting USB device enumeration
+00:00:00.252570          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&226545ef&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:00.252708          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&9c5c6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.253779          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.253817          USB: Unknown USB device detected (idVendor: 0x0408, idProduct: 0x5365)
+00:00:00.253844          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0029)
+00:00:00.280228          HostDnsMonitor: initializing
+00:00:00.288073          HostDnsMonitor: updating information
+00:00:00.288094          HostDnsMonitor: old information
+00:00:00.288094            no server entries
+00:00:00.288095            no domain set
+00:00:00.288095            no search string entries
+00:00:00.288096          HostDnsMonitor: new information
+00:00:00.288096            server 1: 192.168.1.1
+00:00:00.288097            domain: bbrouter
+00:00:00.288097            no search string entries
+00:00:00.314720          VD: VDInit finished with VINF_SUCCESS
+00:00:00.315817          Loading settings file "C:\Users\AMIT\VirtualBox VMs\CentOS_7.9.2009_VBG_LinuxVMImages.COM\CentOS_7.9.2009_VBG_LinuxVMImages.COM.vbox" with version "1.16-windows"
+00:00:00.316681          VirtualBox: object created
+00:00:07.910583          Launched VM: 70227456 pid: 12128 (0x2f60) frontend: GUI/Qt name: CentOS_7.9.2009_VBG_LinuxVMImages.COM
+00:00:12.763516          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:13.460613          Saving settings file "C:\Users\AMIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:13.468002          Saving settings file "C:\Users\AMIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:13.477458          Saving settings file "C:\Users\AMIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:13.484786          Saving settings file "C:\Users\AMIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:13.493294          Saving settings file "C:\Users\AMIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:14.910807          Saving settings file "C:\Users\AMIT\VirtualBox VMs\CentOS_7.9.2009_VBG_LinuxVMImages.COM\CentOS_7.9.2009_VBG_LinuxVMImages.COM.vbox" with version "1.16-windows"
+00:02:10.002404          Saving settings file "C:\Users\AMIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:30.239481          Saving settings file "C:\Users\AMIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:30.276820          Saving settings file "C:\Users\AMIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:17.110249          Saving settings file "C:\Users\AMIT\VirtualBox VMs\CentOS_7.9.2009_VBG_LinuxVMImages.COM\CentOS_7.9.2009_VBG_LinuxVMImages.COM.vbox" with version "1.16-windows"
+00:07:17.197654 SaveState Saving settings file "C:\Users\AMIT\VirtualBox VMs\CentOS_7.9.2009_VBG_LinuxVMImages.COM\CentOS_7.9.2009_VBG_LinuxVMImages.COM.vbox" with version "1.16-windows"
+00:07:26.888005          Launched VM: 70838336 pid: 4060 (0xfdc) frontend: GUI/Qt name: CentOS_7.9.2009_VBG_LinuxVMImages.COM
+00:07:31.051681          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:07:32.970808          Saving settings file "C:\Users\AMIT\VirtualBox VMs\CentOS_7.9.2009_VBG_LinuxVMImages.COM\CentOS_7.9.2009_VBG_LinuxVMImages.COM.vbox" with version "1.16-windows"
+00:09:19.637522 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:09:19.637911 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&226545ef&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:09:19.638151 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&9c5c6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:09:19.638396 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:11:59.345228          Saving settings file "C:\Users\AMIT\VirtualBox VMs\CentOS_7.9.2009_VBG_LinuxVMImages.COM\CentOS_7.9.2009_VBG_LinuxVMImages.COM.vbox" with version "1.16-windows"
+00:11:59.421127          Saving settings file "C:\Users\AMIT\VirtualBox VMs\CentOS_7.9.2009_VBG_LinuxVMImages.COM\CentOS_7.9.2009_VBG_LinuxVMImages.COM.vbox" with version "1.16-windows"
+00:12:09.249213          Launched VM: 70536592 pid: 10132 (0x2794) frontend: GUI/Qt name: CentOS_7.9.2009_VBG_LinuxVMImages.COM
+00:12:13.120222          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:12:13.229531          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:22:45.305176          Saving settings file "C:\Users\AMIT\VirtualBox VMs\CentOS_7.9.2009_VBG_LinuxVMImages.COM\CentOS_7.9.2009_VBG_LinuxVMImages.COM.vbox" with version "1.16-windows"
+00:22:59.550273          Saving settings file "C:\Users\AMIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:22:59.561742          Saving settings file "C:\Users\AMIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:23:13.432885          Launched VM: 70493424 pid: 4304 (0x10d0) frontend: GUI/Qt name: CentOS_7.9.2009_VBG_LinuxVMImages.COM
+00:23:19.566195          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:23:19.747290          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:28:22.543656          Saving settings file "C:\Users\AMIT\VirtualBox VMs\CentOS_7.9.2009_VBG_LinuxVMImages.COM\CentOS_7.9.2009_VBG_LinuxVMImages.COM.vbox" with version "1.16-windows"
+01:09:47.048125          Launched VM: 70534576 pid: 5580 (0x15cc) frontend: GUI/Qt name: CentOS_7.9.2009_VBG_LinuxVMImages.COM
+01:09:53.527503          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+01:09:53.816530          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+01:15:02.416768          Saving settings file "C:\Users\AMIT\VirtualBox VMs\CentOS_7.9.2009_VBG_LinuxVMImages.COM\CentOS_7.9.2009_VBG_LinuxVMImages.COM.vbox" with version "1.16-windows"
+01:15:03.699940          Saving settings file "C:\Users\AMIT\VirtualBox VMs\CentOS_7.9.2009_VBG_LinuxVMImages.COM\CentOS_7.9.2009_VBG_LinuxVMImages.COM.vbox" with version "1.16-windows"
+01:15:03.712854          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+01:15:03.734259          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+01:15:03.777035 SaveState Saving settings file "C:\Users\AMIT\VirtualBox VMs\CentOS_7.9.2009_VBG_LinuxVMImages.COM\CentOS_7.9.2009_VBG_LinuxVMImages.COM.vbox" with version "1.16-windows"
+01:23:40.751056          Saving settings file "C:\Users\AMIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:23:40.808232          Saving settings file "C:\Users\AMIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:23:46.334598 main     VirtualBox: object deletion starts
+01:23:46.334690 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\AMIT\VirtualBox VMs\CentOS_7.9.2009_VBG_LinuxVMImages.COM\CentOS_7.9.2009_VBG_LinuxVMImages.COM-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:23:46.335521 main     HostDnsMonitor: shutting down ...
+01:23:46.335621 main     HostDnsMonitor: shut down
+01:23:46.338340 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+01:23:46.338711 main     VirtualBox: object deleted

@@ -1,0 +1,20 @@
+00:00:00.529836 VirtualBox GUI VM Selector Window 6.1.38 r153438 win.amd64 (Sep  1 2022 14:20:23) release log
+00:00:00.529838 Log opened 2022-09-25T05:36:21.951236400Z
+00:00:00.529838 Build Type: release
+00:00:00.529841 OS Product: Windows 11
+00:00:00.529842 OS Release: 10.0.22621
+00:00:00.529842 OS Service Pack: 
+00:00:00.573846 DMI Product Name: HP Pavilion Gaming Laptop 15-ec1xxx
+00:00:00.578966 DMI Product Version:  
+00:00:00.578982 Firmware type: UEFI
+00:00:00.579230 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.579246 Host RAM: 7541MB (7.3GB) total, 3559MB (3.4GB) available
+00:00:00.579249 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.579249 Process ID: 22132
+00:00:00.579250 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.579459 Qt version: 5.6.2
+00:00:00.636254 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.617523 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:38:40.792571 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:49:22.271063 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:49:28.007229 GUI: UIMediumEnumerator: Medium-enumeration finished!
